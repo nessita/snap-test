@@ -1,0 +1,8 @@
+name: snap-test
+version: zaraza
+summary: This is the summary of a test snap for BSI integration
+description: This is the description of a test snap for BSI integration
+
+parts:
+    main:
+        plugin: nil
