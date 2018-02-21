@@ -1,4 +1,4 @@
-name: snap-test
+name: nessita-snap-git-test
 version: zaraza
 summary: This is the summary of a test snap for BSI integration
 description: This is the description of a test snap for BSI integration
